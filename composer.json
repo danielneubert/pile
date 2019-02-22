@@ -1,0 +1,22 @@
+{
+    "name": "neubert/pile",
+    "description": "A small helper for fetching multidimensional arrays and objects.",
+    "keywords": ["php", "arrays", "objects", "values", "keys"],
+    "homepage": "https://github.com/danielneubert/pile",
+    "license": "MIT",
+    "authors": [
+        {"name": "Daniel Neubert", "email": "git@danielneubert.com"}
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": { "Neubert\\Pile\\": "src/Neubert/Pile" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Neubert\\Tests\\Pile\\": "tests/Neubert/Tests/Pile" }
+    }
+}

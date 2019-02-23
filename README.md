@@ -1,5 +1,6 @@
 # Pile
 
+[![Version](https://img.shields.io/packagist/v/neubert/pile.svg?label=version)](https://packagist.org/packages/neubert/pile)
 [![Build Status](https://travis-ci.com/danielneubert/pile.svg?branch=master)](https://travis-ci.com/danielneubert/pile)
 
 ## A small helper for fetching multidimensional arrays and objects.

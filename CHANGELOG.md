@@ -1,6 +1,22 @@
 # Release Notes for 2^
 
-## [v2.0.0 (2019-02-21)](https://github.com/laravel/framework/compare/v5.7.25...v5.7.26)
+## [v2.1.0 (2019-02-25)](https://github.com/danielneubert/pile/releases/tag/2.1.0)
+
+### Added
+- Added version badge to the `README.md`
+
+### Fixed
+- Fixed `phpunit.xml`
+- Fixed version-link in `CHANGELOG.md`
+
+### Changes
+- Changed `LICENCE` to `LICENSE`
+- Changed `PileTest.php` use to `Neubert\Pile`
+- Changed version of phpunit from `7^` to `8^`
+- Changed namespace within the `README.md` example
+- Changed namespace from `Neubert\Pile\Pile()` to `Neubert\Pile()`
+
+## [v2.0.0 (2019-02-21)](https://github.com/danielneubert/pile/releases/tag/2.0.0)
 
 ### Added
 - Added `Pile::find($array, $key...)`

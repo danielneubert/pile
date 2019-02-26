@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Neubert\Tests\Pile;
 
-use Neubert\Pile\Pile;
+use Neubert\Pile;
 use PHPUnit\Framework\TestCase;
 use PHPUnit\Framework\MockObject\MockObject;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Neubert\Pile;
+namespace Neubert;
 
 class Pile
 {

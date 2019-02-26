@@ -21,12 +21,14 @@ composer require neubert/pile
 
 If you'd like to download Pile to your project you can click here:
 
-[**Download Pile v2.0.0** (latest)](https://raw.githubusercontent.com/danielneubert/pile/master/src/Neubert/Pile/Pile.php)
+[**Download Pile v2.1.0** (latest)](https://raw.githubusercontent.com/danielneubert/pile/master/src/Neubert/Pile/Pile.php)
 
 ## Example
 
 ```php
 <?php
+
+use Neubert\Pile;
 
 // sample array
 $foo = (object) [
